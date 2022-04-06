@@ -1,0 +1,31 @@
+body
+{
+    background-color: grey;
+}
+
+.logout{ 
+    margin-left: 10px;
+}
+.viewbtn{
+    margin-left: 990px;
+}
+.bgcolor
+{
+    background-color: blue;
+}
+.leftSide
+{
+    padding-top: 50px;
+}
+.rightSide
+{
+    padding-top: 50px;
+    padding-left: 240px;
+}
+.btn1{
+    width: 100px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 500px;
+    float:right;
+}
